@@ -1,0 +1,25 @@
+<svg version="1.1"
+baseProfile="full"
+xmlns="http://www.w3.org/2000/svg">
+<polygon points="150 0,0 259.808,300 259.808" fill="red"/>
+<rect x="28.8675" y="209.808" width="30" height="50" fill="green"/>
+<rect x="58.8675" y="209.808" width="30" height="50" fill="green"/>
+<rect x="88.8675" y="209.808" width="30" height="50" fill="green"/>
+<rect x="118.868" y="209.808" width="30" height="50" fill="green"/>
+<rect x="148.868" y="209.808" width="30" height="50" fill="green"/>
+<rect x="178.868" y="209.808" width="30" height="50" fill="green"/>
+<rect x="208.868" y="209.808" width="30" height="50" fill="green"/>
+<rect x="238.868" y="209.808" width="30" height="50" fill="green"/>
+<rect x="57.735" y="159.808" width="30" height="50" fill="green"/>
+<rect x="87.735" y="159.808" width="30" height="50" fill="green"/>
+<rect x="117.735" y="159.808" width="30" height="50" fill="green"/>
+<rect x="147.735" y="159.808" width="30" height="50" fill="green"/>
+<rect x="177.735" y="159.808" width="30" height="50" fill="green"/>
+<rect x="207.735" y="159.808" width="30" height="50" fill="green"/>
+<rect x="86.6025" y="109.808" width="30" height="50" fill="green"/>
+<rect x="116.603" y="109.808" width="30" height="50" fill="green"/>
+<rect x="146.603" y="109.808" width="30" height="50" fill="green"/>
+<rect x="176.603" y="109.808" width="30" height="50" fill="green"/>
+<rect x="115.47" y="59.8076" width="30" height="50" fill="green"/>
+<rect x="145.47" y="59.8076" width="30" height="50" fill="green"/>
+</svg>

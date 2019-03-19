@@ -1,0 +1,32 @@
+<svg version="1.1"
+baseProfile="full"
+xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="300" height="200" fill="red"/>
+<circle cx="25" cy="25" r="25" fill="green"/>
+<circle cx="25" cy="75" r="25" fill="green"/>
+<circle cx="25" cy="125" r="25" fill="green"/>
+<circle cx="25" cy="175" r="25" fill="green"/>
+<circle cx="75" cy="25" r="25" fill="green"/>
+<circle cx="75" cy="75" r="25" fill="green"/>
+<circle cx="75" cy="125" r="25" fill="green"/>
+<circle cx="75" cy="175" r="25" fill="green"/>
+<circle cx="125" cy="25" r="25" fill="green"/>
+<circle cx="125" cy="75" r="25" fill="green"/>
+<circle cx="125" cy="125" r="25" fill="green"/>
+<circle cx="125" cy="175" r="25" fill="green"/>
+<circle cx="175" cy="25" r="25" fill="green"/>
+<circle cx="175" cy="75" r="25" fill="green"/>
+<circle cx="175" cy="125" r="25" fill="green"/>
+<circle cx="175" cy="175" r="25" fill="green"/>
+<circle cx="225" cy="25" r="25" fill="green"/>
+<circle cx="225" cy="75" r="25" fill="green"/>
+<circle cx="225" cy="125" r="25" fill="green"/>
+<circle cx="225" cy="175" r="25" fill="green"/>
+<circle cx="275" cy="25" r="25" fill="green"/>
+<circle cx="275" cy="75" r="25" fill="green"/>
+<circle cx="275" cy="125" r="25" fill="green"/>
+<circle cx="275" cy="175" r="25" fill="green"/>
+<rect x="50" y="50" width="30" height="20" fill="pink"/>
+<circle cx="250" cy="100" r="25" fill="yellow"/>
+<polygon points="20 0,0 34.641,40 34.641" fill="blue"/>
+</svg>

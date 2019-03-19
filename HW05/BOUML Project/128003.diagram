@@ -1,0 +1,120 @@
+format 221
+
+classcanvas 128003 class_ref 128131 // Shape
+  classdiagramsettings member_max_width 0 end
+  xyzwh 322.744 1.78914 2000 318 273
+end
+classcanvas 128131 class_ref 128003 // Circle
+  classdiagramsettings member_max_width 0 end
+  xyz 29.0225 254.69 2006
+end
+classcanvas 128387 class_ref 128515 // Rectangle
+  classdiagramsettings member_max_width 0 end
+  xyz 228.555 286.315 2006
+end
+classcanvas 128643 class_ref 128643 // Triangle
+  classdiagramsettings member_max_width 0 end
+  xyz 392.655 327.17 2006
+end
+classcanvas 128899 class_ref 129539 // Polygon
+  classdiagramsettings member_max_width 0 end
+  xyz 664.684 295.001 2006
+end
+classcanvas 129155 class_ref 129795 // PolygonDyn
+  classdiagramsettings member_max_width 0 end
+  xyz 576.072 405.525 2012
+end
+classcanvas 129411 class_ref 129923 // PolygonVect
+  classdiagramsettings member_max_width 0 end
+  xyz 714.384 409.196 2012
+end
+classcanvas 130819 class_ref 128899 // std::exception
+  classdiagramsettings member_max_width 0 end
+  xyz 890.5 34.58 2000
+end
+classcanvas 130947 class_ref 129027 // RectLessThanZero
+  classdiagramsettings member_max_width 0 end
+  xyz 775.48 143.13 2006
+end
+classcanvas 131203 class_ref 129155 // TriLessThanZero
+  classdiagramsettings member_max_width 0 end
+  xyz 880.39 223.53 2006
+end
+classcanvas 131459 class_ref 129283 // PolyLessThanZero
+  classdiagramsettings member_max_width 0 end
+  xyz 743.45 224.56 2006
+end
+classcanvas 131715 class_ref 129411 // EmptyVectorException
+  classdiagramsettings member_max_width 0 end
+  xyz 1000.3 226.04 2006
+end
+classcanvas 131971 class_ref 128771 // OutOfBoundsException
+  classdiagramsettings member_max_width 0 end
+  xyz 1016.21 129.34 2006
+end
+classcanvas 132227 class_ref 128259 // CircleLessThanZero
+  classdiagramsettings member_max_width 0 end
+  xyz 737.84 79.25 2012
+end
+relationcanvas 128259 relation_ref 128003 // <generalisation>
+  from ref 128131 z 2007 to point 218.2 334.96
+  line 129667 z 2007 to ref 128003
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 128515 relation_ref 129539 // <generalisation>
+  from ref 128387 z 2007 to ref 128003
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 128771 relation_ref 129667 // <generalisation>
+  from ref 128643 z 2007 to ref 128003
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 129027 relation_ref 129155 // <generalisation>
+  from ref 128899 z 2007 to ref 128003
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 129283 relation_ref 129283 // <generalisation>
+  from ref 129155 z 2013 to ref 128899
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 129539 relation_ref 129411 // <generalisation>
+  from ref 129411 z 2013 to ref 128899
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 131075 relation_ref 128515 // <generalisation>
+  from ref 130947 z 2007 to ref 130819
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 131331 relation_ref 128643 // <generalisation>
+  from ref 131203 z 2007 to ref 130819
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 131587 relation_ref 128771 // <generalisation>
+  from ref 131459 z 2007 to ref 130819
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 131843 relation_ref 129027 // <generalisation>
+  from ref 131715 z 2007 to ref 130819
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 132099 relation_ref 128899 // <generalisation>
+  from ref 131971 z 2007 to ref 130819
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+relationcanvas 132355 relation_ref 128387 // <generalisation>
+  from ref 132227 z 2013 to ref 130819
+  no_role_a no_role_b
+  no_multiplicity_a no_multiplicity_b
+end
+end

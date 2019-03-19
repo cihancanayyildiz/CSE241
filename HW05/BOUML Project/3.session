@@ -1,0 +1,13 @@
+window_sizes 1366 705 320 1041 554 105
+
+diagrams
+  active  classdiagram_ref 128003 // Shape Hierarchy
+    1041 554 93 Custom 0 0
+end
+show_stereotypes
+selected 
+package_ref 129 // BOUML Project
+open
+  classview_ref 128003 // Classes
+end
+end

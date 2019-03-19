@@ -1,0 +1,29 @@
+<svg version="1.1"
+baseProfile="full"
+xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="300" height="200" fill="red"/>
+<circle cx="22" cy="22" r="22" fill="green"/>
+<circle cx="22" cy="66" r="22" fill="green"/>
+<circle cx="22" cy="110" r="22" fill="green"/>
+<circle cx="22" cy="154" r="22" fill="green"/>
+<circle cx="66" cy="22" r="22" fill="green"/>
+<circle cx="66" cy="66" r="22" fill="green"/>
+<circle cx="66" cy="110" r="22" fill="green"/>
+<circle cx="66" cy="154" r="22" fill="green"/>
+<circle cx="110" cy="22" r="22" fill="green"/>
+<circle cx="110" cy="66" r="22" fill="green"/>
+<circle cx="110" cy="110" r="22" fill="green"/>
+<circle cx="110" cy="154" r="22" fill="green"/>
+<circle cx="154" cy="22" r="22" fill="green"/>
+<circle cx="154" cy="66" r="22" fill="green"/>
+<circle cx="154" cy="110" r="22" fill="green"/>
+<circle cx="154" cy="154" r="22" fill="green"/>
+<circle cx="198" cy="22" r="22" fill="green"/>
+<circle cx="198" cy="66" r="22" fill="green"/>
+<circle cx="198" cy="110" r="22" fill="green"/>
+<circle cx="198" cy="154" r="22" fill="green"/>
+<circle cx="242" cy="22" r="22" fill="green"/>
+<circle cx="242" cy="66" r="22" fill="green"/>
+<circle cx="242" cy="110" r="22" fill="green"/>
+<circle cx="242" cy="154" r="22" fill="green"/>
+</svg>

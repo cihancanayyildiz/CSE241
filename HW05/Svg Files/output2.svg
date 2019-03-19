@@ -1,0 +1,26 @@
+<svg version="1.1"
+baseProfile="full"
+xmlns="http://www.w3.org/2000/svg">
+<polygon points="150 0,0 259.808,300 259.808" fill="red"/>
+<circle cx="38.1051" cy="237.808" r="22" fill="green"/>
+<circle cx="82.1051" cy="237.808" r="22" fill="green"/>
+<circle cx="126.105" cy="237.808" r="22" fill="green"/>
+<circle cx="170.105" cy="237.808" r="22" fill="green"/>
+<circle cx="214.105" cy="237.808" r="22" fill="green"/>
+<circle cx="258.105" cy="237.808" r="22" fill="green"/>
+<circle cx="60.1051" cy="199.703" r="22" fill="green"/>
+<circle cx="104.105" cy="199.703" r="22" fill="green"/>
+<circle cx="148.105" cy="199.703" r="22" fill="green"/>
+<circle cx="192.105" cy="199.703" r="22" fill="green"/>
+<circle cx="236.105" cy="199.703" r="22" fill="green"/>
+<circle cx="82.1051" cy="161.597" r="22" fill="green"/>
+<circle cx="126.105" cy="161.597" r="22" fill="green"/>
+<circle cx="170.105" cy="161.597" r="22" fill="green"/>
+<circle cx="214.105" cy="161.597" r="22" fill="green"/>
+<circle cx="104.105" cy="123.492" r="22" fill="green"/>
+<circle cx="148.105" cy="123.492" r="22" fill="green"/>
+<circle cx="192.105" cy="123.492" r="22" fill="green"/>
+<circle cx="126.105" cy="85.3872" r="22" fill="green"/>
+<circle cx="170.105" cy="85.3872" r="22" fill="green"/>
+<circle cx="148.105" cy="47.282" r="22" fill="green"/>
+</svg>

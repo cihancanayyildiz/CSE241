@@ -1,0 +1,41 @@
+<svg version="1.1"
+baseProfile="full"
+xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="300" height="200" fill="red"/>
+<rect x="0" y="0" width="50" height="30" fill="green"/>
+<rect x="0" y="30" width="50" height="30" fill="green"/>
+<rect x="0" y="60" width="50" height="30" fill="green"/>
+<rect x="0" y="90" width="50" height="30" fill="green"/>
+<rect x="0" y="120" width="50" height="30" fill="green"/>
+<rect x="0" y="150" width="50" height="30" fill="green"/>
+<rect x="50" y="0" width="50" height="30" fill="green"/>
+<rect x="50" y="30" width="50" height="30" fill="green"/>
+<rect x="50" y="60" width="50" height="30" fill="green"/>
+<rect x="50" y="90" width="50" height="30" fill="green"/>
+<rect x="50" y="120" width="50" height="30" fill="green"/>
+<rect x="50" y="150" width="50" height="30" fill="green"/>
+<rect x="100" y="0" width="50" height="30" fill="green"/>
+<rect x="100" y="30" width="50" height="30" fill="green"/>
+<rect x="100" y="60" width="50" height="30" fill="green"/>
+<rect x="100" y="90" width="50" height="30" fill="green"/>
+<rect x="100" y="120" width="50" height="30" fill="green"/>
+<rect x="100" y="150" width="50" height="30" fill="green"/>
+<rect x="150" y="0" width="50" height="30" fill="green"/>
+<rect x="150" y="30" width="50" height="30" fill="green"/>
+<rect x="150" y="60" width="50" height="30" fill="green"/>
+<rect x="150" y="90" width="50" height="30" fill="green"/>
+<rect x="150" y="120" width="50" height="30" fill="green"/>
+<rect x="150" y="150" width="50" height="30" fill="green"/>
+<rect x="200" y="0" width="50" height="30" fill="green"/>
+<rect x="200" y="30" width="50" height="30" fill="green"/>
+<rect x="200" y="60" width="50" height="30" fill="green"/>
+<rect x="200" y="90" width="50" height="30" fill="green"/>
+<rect x="200" y="120" width="50" height="30" fill="green"/>
+<rect x="200" y="150" width="50" height="30" fill="green"/>
+<rect x="250" y="0" width="50" height="30" fill="green"/>
+<rect x="250" y="30" width="50" height="30" fill="green"/>
+<rect x="250" y="60" width="50" height="30" fill="green"/>
+<rect x="250" y="90" width="50" height="30" fill="green"/>
+<rect x="250" y="120" width="50" height="30" fill="green"/>
+<rect x="250" y="150" width="50" height="30" fill="green"/>
+</svg>
