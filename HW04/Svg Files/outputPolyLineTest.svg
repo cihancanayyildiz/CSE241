@@ -1,0 +1,5 @@
+<svg version="1.1"
+baseProfile="full"
+xmlns="http://www.w3.org/2000/svg">
+<polyline points="0,0 0,40 40,40 40,80 80,80 80,120 120,120 120,160 " style="fill:none;stroke:yellow;stroke-width:4" />
+</svg>
